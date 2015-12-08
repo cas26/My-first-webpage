@@ -1,0 +1,13 @@
+body { font-family: Arial; background-image: url(http://images.all-free-download.com/images/graphiclarge/rush_grass_texture_214066.jpg) }
+
+ h1 { color: white; font-style: Arial ;font-weight: 32; font-size: 32pt;text-align: center}
+ p {color: white; font-style: Arial;font-weight: 24; font-size: 24pt;text-align: center}
+ a {color: white; font-style: Arial;font-weight: 24; font-size: 24pt;text-align: center}
+ li {color: white; font-style: Arial; font-weight: 24; font-size: 24pt;text-align: center}
+ ul {list-style-position: inside}
+
+img {width: 350px; height: 250px}
+img  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
